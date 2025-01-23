@@ -1,1 +1,2 @@
-MONGO_URI='mongodb+srv://bathierno1910:Q9pN77zZwvlM3plQ@apicluster.n3dkk.mongodb.net/'
+.env
+node_modules
